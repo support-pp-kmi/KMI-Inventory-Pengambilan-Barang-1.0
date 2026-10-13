@@ -1,0 +1,6 @@
+{
+  "name": "KMI Inventory & Pengambilan Barang",
+  "description": "Aplikasi Form Pengambilan Barang, Kedatangan Barang, Cek Stok, dan Integrasi Google Sheets PT KMI Wire and Cable Tbk",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
